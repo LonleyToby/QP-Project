@@ -1,0 +1,33 @@
+What do you enjoy more?
+
+1) A finished product
+2) The process of making things
+
+(1
+	1.1) Finding unquie and intresting ways to solve  problems?
+		Cybersecurity
+
+	1.2) Structures, keeping everything organized and neat.
+		Database Management & Administration
+
+	1.3) Enjoying finding unquie and intresting ways to solve problems and doing it while everything organized and neat.
+		Database Management & Administration
+
+(2
+	2.1) Working in a team
+		2.1.1) Structures and organiztion.
+			Database Management & Administration
+
+		2.1.2) I just love making things!
+			Software Engineering
+
+	2.2) Working with numbers
+		2.2.1) New Technonolgy
+			Artificial Intelligence (AI) & Machine Learning (ML)
+
+		2.2.2) Finding unquie and intresting ways to solve problems
+			Data Science & Big Data
+
+	2.3) The Designs of thinkgs I make
+		Web Development
+	
